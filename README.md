@@ -30,7 +30,8 @@ Notifications and entertainment usage drive addiction behavior
 
 ### 🔹 Dashboard Preview
 
-(Add images here after upload)
+<img width="1560" height="732" alt="Screenshot 2026-04-09 194118" src="https://github.com/user-attachments/assets/ef2dd2d2-b28d-4377-9054-4c69a3ac8d31" />
+
 
 ### 🔹 Files Included
 
