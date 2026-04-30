@@ -6,15 +6,24 @@ Analyze smartphone usage behavior and identify patterns contributing to digital 
 
 ### 🔹 Tools Used
 
-Python,
-Pandas,
-NumPy,
-Matplo,tlib
-Seaborn,
-Plotly,
-Jupyter Notebook,
-Data Cleaning,
-Feature Engineering,
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Plotly
+
+Jupyter Notebook
+
+Data Cleaning
+
+Feature Engineering
+
 Exploratory Data Analysis (EDA).
 
 ### 🔹 Key Insights
